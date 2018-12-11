@@ -1,0 +1,13 @@
+/* Работает щт 0 до 768px */
+
+@media (max-width:992px) {
+    .events-item-body h3 {
+        font-size: 18px;
+    }
+}
+
+@media (max-width:992px) {
+    .header {
+        text-align: center;
+    }
+}
