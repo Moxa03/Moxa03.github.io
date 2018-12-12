@@ -5,6 +5,7 @@
     .col-xl-4 img{
         margin-top: 10px;
         margin-bottom: 10px;
+        width: 70%;
     }
 
     .press{
@@ -13,5 +14,8 @@
     .top{
         margin-top: 10px;
         margin-bottom: 10px;
+    }
+    h1{
+        font-size: 30px;
     }
 }
