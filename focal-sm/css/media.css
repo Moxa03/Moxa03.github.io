@@ -17,4 +17,7 @@
     h1 {
         font-size: 30px;
     }
+    header {
+        background: url('../img/section-img.jpg') no-repeat center top / cover fixed;
+    }
 }
