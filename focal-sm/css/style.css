@@ -84,7 +84,6 @@ ul {
 
 .header {
     min-height: 100vh;
-    background: url('../img/section-img.jpg') no-repeat center top / cover fixed;
     display: flex;
     /* fxd:c */
     flex-direction: column;

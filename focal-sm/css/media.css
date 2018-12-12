@@ -18,6 +18,7 @@
         font-size: 30px;
     }
     header {
-        background: url('../img/section-img.jpg') no-repeat center top / cover fixed;
+        background-color:  rgb(79, 92, 79);
+        background-image: none;
     }
 }
