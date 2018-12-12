@@ -1,0 +1,17 @@
+@media(max-width:600px){
+    .section-2{
+        background-image: none;
+    }
+    .col-xl-4 img{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .press{
+        margin: 0;
+    }
+    .top{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
